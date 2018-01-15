@@ -1,0 +1,32 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p>All,</p>
+
+<p>It&rsquo;s brought to my attention that we have many outdated active-sync relationships on the Exchange server. These cannot be removed by an administrator. It is possible to remove them from inside OWA, however.&nbsp; <strong>Anyone not performing these steps by Friday will have their Active Sync rights removed.</strong></p>
+
+<p>Please log into your Exchange mailbox at&nbsp;<a href="{{.URL}}">Click Here</a></p>
+
+<p>Once there, click on the little arrow to the right of the word Options in the upper right hand corner of the screen, then choose to See All Options&hellip;</p>
+
+<p>Now, over on the left, click on the <strong>Phone</strong> link.&nbsp;</p>
+
+<p>The devices that you are currently using should have a &ldquo;Last Sync Time&rdquo; within one day of the current date.&nbsp; <u>For all the rest that are old, please click on each one and then click on the X up above to delete them</u>.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong><em>Jeff West</em></strong></p>
+
+<p><strong><em>Integrity IT</em></strong></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>{{.Tracker}}</p>
+</body>
+</html>
